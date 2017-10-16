@@ -50,6 +50,7 @@
     "devices-edit": "Sửa",
     "devices-remove": "Xoá",
     "devices-search-hint": "Tìm ID thiết bị",
+    "devices-device-label": "Tên device",
 
     "device-history-tab": "Lịch sử",
     "device-settings-tab": "Thiết lập",
