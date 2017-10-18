@@ -1,4 +1,9 @@
 {
+    "login-username": "ユーザー名",
+    "login-password": "パスワード",
+    "login-forgot": "パスワードを忘れた",
+    "login-button": "ログイン",
+
     "tab-dashboard": "ダッシュボード",
     "tab-location": "店舗",
     "tab-settings": "設定",
@@ -23,6 +28,8 @@
     "locations-search-hint": "店舗の検索",
     "locations-all-cities": "全国",
     "locations-all-districts": "全地区",
+    "location-required-error": "全項目をご入力ください",
+    "locations-new-button": "追加",
 
     "locations-tabs-back": "戻る",
     "locations-tabs-device-count": "デバイス数",

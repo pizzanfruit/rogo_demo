@@ -1,4 +1,9 @@
 {
+    "login-username": "Username",
+    "login-password": "Password",
+    "login-forgot": "Forgot password",
+    "login-button": "Sign in",
+
     "tab-dashboard": "Dashboard",
     "tab-location": "Location",
     "tab-settings": "Settings",
@@ -23,6 +28,8 @@
     "locations-search-hint": "Location's name",
     "locations-all-cities": "All cities",
     "locations-all-districts": "All districts",
+    "location-required-error": "Please fill out all fields before proceeding",
+    "locations-new-button": "Add location",
 
     "locations-tabs-back": "Back",
     "locations-tabs-device-count": "Device quantity",

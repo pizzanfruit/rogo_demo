@@ -1,4 +1,9 @@
 {
+    "login-username": "Tài khoản",
+    "login-password": "Mật khẩu",
+    "login-forgot": "Quên mật khẩu",
+    "login-button": "Đăng nhập",
+
     "tab-dashboard": "Dashboard",
     "tab-location": "Địa điểm",
     "tab-settings": "Cài đặt",
@@ -23,6 +28,8 @@
     "locations-search-hint": "Tên địa điểm",
     "locations-all-cities": "Toàn quốc",
     "locations-all-districts": "Tất cả quận huyện",
+    "location-required-error": "Xin hãy nhập tất cả các trường trước khi thêm mới",
+    "locations-new-button": "Thêm mới",
 
     "locations-tabs-back": "Quay lại",
     "locations-tabs-device-count": "Số lượng thiết bị",
