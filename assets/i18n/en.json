@@ -1,4 +1,6 @@
 {
+    "common-sign-out": "Sign out",
+
     "login-username": "Username",
     "login-password": "Password",
     "login-forgot": "Forgot password",

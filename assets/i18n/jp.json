@@ -1,4 +1,6 @@
 {
+    "common-sign-out": "ログアウト",
+
     "login-username": "ユーザー名",
     "login-password": "パスワード",
     "login-forgot": "パスワードを忘れた",
